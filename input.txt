@@ -1,0 +1,10 @@
+1,2,3
+ham
+7,0,1
+this is nice
+2,1,0
+MY NAME IS PRECIOUS
+9,5,1
+Me
+2,8,4
+Cookie Monster
